@@ -25,7 +25,7 @@ a new -nodejs- project with -typescript- and -mocha- for testing.
 
 By default your code will reside in the `src` folder and the transpiled code will
 be written to `dist`.
-For testing testfiles should be named `-.test.ts` and live in a `/__tests__` folder
+For testing testfiles should be named `*.test.ts` and live in a `/__tests__` folder
 next to the code they are testing.
 
 ## Greetings
